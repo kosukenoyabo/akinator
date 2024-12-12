@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 import logging
 
 # 環境変数の読み込み
+
 load_dotenv()
 
 # Flaskアプリケーションの設定
