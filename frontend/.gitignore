@@ -21,3 +21,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Python関連
+*.pyc
+__pycache__/
+*.pyo
+.Python
+.env
+venv/
+
